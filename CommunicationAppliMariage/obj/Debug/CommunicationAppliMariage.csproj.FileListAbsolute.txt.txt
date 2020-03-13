@@ -1,0 +1,13 @@
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\CommunicationAppliMariage\bin\Debug\CommunicationAppliMariage.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\CommunicationAppliMariage\bin\Debug\CommunicationAppliMariage.pdb
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\CommunicationAppliMariage\obj\Debug\CommunicationAppliMariage.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\CommunicationAppliMariage\obj\Debug\CommunicationAppliMariage.pdb
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\CommunicationAppliMariage\bin\Debug\CommunicationAppliMariage.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\CommunicationAppliMariage\bin\Debug\CommunicationAppliMariage.pdb
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\CommunicationAppliMariage\obj\Debug\CommunicationAppliMariage.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\CommunicationAppliMariage\obj\Debug\CommunicationAppliMariage.pdb
+C:\Users\toto\Desktop\Mariage\AppliMariage\CommunicationAppliMariage\bin\Debug\CommunicationAppliMariage.dll
+C:\Users\toto\Desktop\Mariage\AppliMariage\CommunicationAppliMariage\bin\Debug\CommunicationAppliMariage.pdb
+C:\Users\toto\Desktop\Mariage\AppliMariage\CommunicationAppliMariage\obj\Debug\CommunicationAppliMariage.dll
+C:\Users\toto\Desktop\Mariage\AppliMariage\CommunicationAppliMariage\obj\Debug\CommunicationAppliMariage.pdb
+C:\Users\toto\Desktop\Mariage\AppliMariage\CommunicationAppliMariage\obj\Debug\CommunicationAppliMariage.csprojResolveAssemblyReference.cache
