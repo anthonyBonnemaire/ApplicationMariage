@@ -1,0 +1,73 @@
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\AppliMariage.exe.config
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\AppliMariage.csprojResolveAssemblyReference.cache
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\AppliMariage_MarkupCompile.cache
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\AppliMariage_MarkupCompile.lref
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\AppliMariage.exe
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\AppliMariage.pdb
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\CommunicationAppliMariage.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\CommunicationAppliMariage.pdb
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Styles.baml
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\AppliMariage.g.resources
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\AppliMariage.Properties.Resources.resources
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\AppliMariage.csproj.GenerateResource.Cache
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\AppliMariage.exe
+C:\Users\ab\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\AppliMariage.pdb
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\WpfApplication3\bin\Debug\AppliMariage.exe.config
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\WpfApplication3\obj\Debug\AppliMariage.exe
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\WpfApplication3\obj\Debug\AppliMariage.pdb
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\AppliMariage.exe.config
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\AppliMariage.exe
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\AppliMariage.pdb
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\CommunicationAppliMariage.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\CommunicationAppliMariage.pdb
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\AppliMariage.csprojResolveAssemblyReference.cache
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\MainWindow.g.cs
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\App.g.cs
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\AppliMariage_MarkupCompile.cache
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\AppliMariage_MarkupCompile.lref
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\MainWindow.baml
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\AppliMariage.g.resources
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\AppliMariage.Properties.Resources.resources
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\AppliMariage.csproj.GenerateResource.Cache
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\AppliMariage.exe
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\AppliMariage.pdb
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\App.baml
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\Resources\StylesDefault.baml
+C:\Users\ab\Documents\Visual Studio 2013\Projects\AppliMariage\AppliMariage\obj\Debug\Resources\Pictogrammes.baml
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\bin\Debug\AppliMariage.exe.config
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\AppliMariage.exe
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\AppliMariage.pdb
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\bin\Debug\AppliMariage.exe
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\bin\Debug\AppliMariage.pdb
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\bin\Debug\CommunicationAppliMariage.dll
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\bin\Debug\CommunicationAppliMariage.pdb
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\AppliMariage.csprojResolveAssemblyReference.cache
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\Resources\Pictogrammes.baml
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\MainWindow.g.cs
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\App.g.cs
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\AppliMariage_MarkupCompile.cache
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\AppliMariage_MarkupCompile.lref
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\App.baml
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\MainWindow.baml
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\Resources\StylesDefault.baml
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\AppliMariage.g.resources
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\AppliMariage.Properties.Resources.resources
+C:\Users\toto\Desktop\Mariage\AppliMariage\AppliMariage\obj\Debug\AppliMariage.csproj.GenerateResource.Cache
